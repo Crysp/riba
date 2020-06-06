@@ -1,0 +1,36 @@
+{
+  "name": "riba",
+  "version": "1.0.0",
+  "description": "Shortcuts for inserting placeholder text",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "unpacked": "gulp unpacked",
+    "packed": "gulp packed",
+    "test": "jest"
+  },
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-typescript": "^7.10.1",
+    "@babel/types": "^7.10.2",
+    "@types/chrome": "^0.0.114",
+    "@types/jest": "^25.2.3",
+    "browserify": "^16.5.1",
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-rimraf": "^1.0.0",
+    "gulp-zip": "^5.0.1",
+    "prettier": "^2.0.5",
+    "tsify": "^4.0.2",
+    "typescript": "^3.9.5",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
