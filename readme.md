@@ -6,6 +6,6 @@ Shortcuts for inserting placeholder text
 
 ![](screenshots/First.png)
 
-`Ctrl+Shift+L` –– inserts sentence
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd> –– inserts sentence
 
-`Ctrl+Shift+K` –– inserts paragraph
+<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd> –– inserts paragraph
